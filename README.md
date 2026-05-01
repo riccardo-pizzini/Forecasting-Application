@@ -101,48 +101,6 @@ The application is organized into five main tabs:
 
 ---
 
-## Screenshots
-
-Add your app screenshots here.
-
-![Dashboard Screenshot](images/dashboard.png)
-
-![Returns Dynamics Screenshot](images/returns-dynamics.png)
-
-![Residuals Screenshot](images/residuals.png)
-
-![Risk Forecasting Screenshot](images/risk-forecasting.png)
-
-![Distribution and Tail Risks Screenshot](images/distribution-tail-risk.png)
-
----
-
-## Recommended Folder Structure
-
-```text
-quant-dashboard/
-│
-├── README.md
-├── LICENSE
-│
-├── src/
-│   ├── QUANT_DASHBOARD.mlapp
-│   ├── firstcalculation.m
-│   └── getYahoo.m
-│
-├── images/
-│   ├── dashboard.png
-│   ├── returns-dynamics.png
-│   ├── residuals.png
-│   ├── risk-forecasting.png
-│   └── distribution-tail-risk.png
-│
-└── docs/
-    └── methodology.md
-```
-
----
-
 ## Technologies Used
 
 - MATLAB
@@ -206,14 +164,11 @@ Depending on the data download method used in the app, an external script or con
 Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/quant-dashboard.git](https://github.com/riccardo-pizzini/Quantitative-Dashboard-for-Time-Series-Analysis)
+https://github.com/riccardo-pizzini/Quantitative-Dashboard-for-Time-Series-Analysis
 ```
 
 Open the project in MATLAB and run the `.mlapp` file:
 
-```matlab
-open('src/QUANT_DASHBOARD.mlapp')
-```
 
 Then click **Run** inside MATLAB App Designer.
 
