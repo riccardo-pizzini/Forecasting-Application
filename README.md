@@ -202,11 +202,3 @@ You can connect with me on:
 
 - LinkedIn: https://www.linkedin.com/in/riccardo-pizzini-a84078249/
 - GitHub: https://github.com/riccardo-pizzini
-
----
-
-## License
-
-This project is released under the MIT License.
-
-See the `LICENSE` file for more details.
