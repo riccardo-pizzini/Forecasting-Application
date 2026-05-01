@@ -185,22 +185,6 @@ Then click **Run** inside MATLAB App Designer.
 
 ---
 
-## Project Status
-
-This project is currently under development.
-
-Planned improvements may include:
-
-- Support for multiple assets
-- Portfolio-level analysis
-- Exportable reports
-- Additional risk measures
-- Improved model comparison
-- Enhanced user interface
-- More flexible data source integration
-
----
-
 ## Disclaimer
 
 This project is developed for educational and research purposes only.
